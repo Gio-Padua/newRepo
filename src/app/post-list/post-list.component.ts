@@ -15,6 +15,13 @@ export class PostListComponent implements OnInit {
       'Larena',
       new Date()
 
+    ),
+    new Post(
+      'The Top 25 Islands in the World',
+      'https://media.cntraveler.com/photos/6167f074d89b8ecb70c9531a/5:4/w_2495,h_1996,c_limit/RajaAmpat-GettyImages-979296970.jpg',
+      'The best islands in the world, according to T+L readers, are the kind of Instagram-perfect destinations that travelers fantasize about on winter evenings: dreamy, sun-drenched landscapes surrounded by the bluest waters.',
+      'Walsh',
+      new Date()
     )
   ]
 
