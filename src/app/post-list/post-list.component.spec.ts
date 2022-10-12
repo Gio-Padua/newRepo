@@ -1,5 +1,5 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
-
+import { NgModule } from '@angular/core';
 import { PostListComponent } from './post-list.component';
 
 describe('PostListComponent', () => {
